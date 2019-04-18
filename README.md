@@ -1,3 +1,13 @@
+# Note
+This project was modified from https://github.com/tianzhi0549/CTPN. I added the codes for side refinement and training, and changed the backbone to ResNet-50. The model can achieve similar accuracy with the initial paper. Some detection results can be seen below: 
+
+<img src='res/6565.jpg'>
+<img src='res/img_1.jpg'>
+<img src='res/img_45.jpg'>
+<img src='res/sin.png'>
+
+
+
 # Detecting Text in Natural Image with Connectionist Text Proposal Network
 The codes are used for implementing CTPN for scene text detection, described in: 
 
