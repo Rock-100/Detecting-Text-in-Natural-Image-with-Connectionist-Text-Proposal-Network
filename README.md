@@ -1,5 +1,5 @@
 # Note
-This project was modified from https://github.com/tianzhi0549/CTPN. I added the codes for side refinement and training, and changed the backbone to ResNet-50. The model can achieve similar accuracy with the initial paper. Some detection results can be seen below: 
+This project was modified from https://github.com/tianzhi0549/CTPN. Specifically, I changed the backbone to ResNet-50, and added the codes for side refinement and training. The model can achieve similar accuracy with the paper. Some detection results can be seen below: 
 
 <img src='res/6565.jpg'>
 <img src='res/img_1.jpg'>
