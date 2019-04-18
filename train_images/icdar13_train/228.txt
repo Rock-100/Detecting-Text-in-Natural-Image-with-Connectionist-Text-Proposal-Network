@@ -1,0 +1,5 @@
+1405,116,728,93,"Info@serviplus.de"
+891,256,1718,333,"www.serviplus.de"
+257,1113,724,261,"Geld"
+1188,1122,1556,255,"einwerfen"
+258,1434,2483,257,"Betriebsbereit"
